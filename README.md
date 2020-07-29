@@ -1,2 +1,2 @@
 # OpenMarioWorld
-source clone of jfk mario world
+A source clone of JFK Mario World.
